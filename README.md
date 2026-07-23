@@ -1,6 +1,7 @@
 # Exp-2-Water-Level-Indicator-Using-BC547-Transistors
 
-Register Number:212225060017                                                                                            Name of the Student: Anish D
+Register Number:212225060017                                                                                    
+Name of the Student: Anish D
 
 Aim: To design and implement a Water Level Indicator using BC547 transistors, LEDs, and a buzzer to monitor different water levels in a tank and provide visual and audible indications when the tank is full.
 
@@ -20,6 +21,7 @@ Apparatus Required:
 | 10   | Metal Probes         | Copper/Stainless Steel | 4           |
 
 Circuit Diagram:
+
 <img width="709" height="715" alt="WhatsApp Image 2026-07-21 at 10 59 56 AM" src="https://github.com/user-attachments/assets/b8e9b1a0-b507-4b6f-81a1-0a6a0a357b84" />
 
 Output:
